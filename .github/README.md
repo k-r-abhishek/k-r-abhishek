@@ -54,7 +54,7 @@
 
 ### 💻 Programming Languages  
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target=""><img src="https://skillicons.dev/icons?i=c" /></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
