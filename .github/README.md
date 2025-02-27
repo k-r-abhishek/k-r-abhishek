@@ -53,34 +53,62 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,typescript,bash" />  
-</p>  
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" /></a>
+</div>  
 
 ### 🧩 Frameworks & Libraries  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,jquery" />
-</p>  
+<div align="center">
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" /></a>
+</div>  
 
 ### 🗄️ Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</p>  
+<div align="center">
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+</div>  
 
 ### 🚀 DevOps & Cloud  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp" />
-</p>  
+<div align="center">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+</div>  
 
 ### 🔥 Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,stackoverflow,postman,figma,heroku" />  
-</p>  
+<div align="center">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://stackoverflow.com/" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://www.heroku.com/" target="_blank"><img src="https://skillicons.dev/icons?i=heroku" /></a>
+</div>  
 
 ### ⚡ Version Control & CI/CD  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins" />
-</p>  
+<div align="center">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
+</div>  
 
 ---
 
@@ -102,19 +130,19 @@
 
 ### 🔗 Professional & Social Media  
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/k-r-abhishek" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <a href="https://twitter.com/K_r_Abhishek" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>  
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+  <a href="https://www.facebook.com/KrAbhishekz" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>  
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:abhishekkrcd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
