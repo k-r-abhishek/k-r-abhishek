@@ -44,9 +44,11 @@
 
 📌 **Profile Views & Followers**  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=k-r-abhishek&label=Profile%20Views&color=blue&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/k-r-abhishek?label=Followers&style=flat-square" />
-</p>  
+  <a href="https://github.com/k-r-abhishek">
+    <img src="https://komarev.com/ghpvc/?username=k-r-abhishek&label=Profile%20Views&color=blue&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/k-r-abhishek?label=Followers&style=flat-square" />
+  </a>
+</p>
 
 ---
 
@@ -116,12 +118,16 @@
 
 📌 **Trophies & Achievements**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k-r-abhishek&theme=radical&no-frame=true&no-bg=true&column=6" />
+  <a href="https://github.com/k-r-abhishek" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=k-r-abhishek&theme=radical&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies"/>
+  </a>
 </p>
 
-📌 **Random Dev Quote**
+📌 **Random Dev Quote**  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="https://github.com/k-r-abhishek" target="_blank">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  </a>
 </p>
 
 ---
@@ -155,14 +161,20 @@
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+  <a href="https://www.codechef.com/users/k_r_abhishek" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+    <a href="https://www.codingninjas.com/codestudio/profile/Kr_Abhishek" target="_blank">
+    <img src="https://img.shields.io/badge/CodeStudio-FF6D00?style=for-the-badge&logo=codingninjas&logoColor=white" />
+  </a>
   <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/K_r_Abhishek" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
