@@ -158,11 +158,11 @@
 ### 🖥 Tech & Coding Profiles  
 <p align="center">
   <a href="https://github.com/k-r-abhishek" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img src="icons/coding/github.png" alt="Github" width="50" /></a>
+  
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+    <img src="icons/coding/leetcode.png" alt="Leetcode" width="50" /></a>
+
   <a href="https://www.codechef.com/users/k_r_abhishek" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
