@@ -164,7 +164,8 @@
     <img src="icons/coding/leetcode.png" alt="Leetcode" width="50" /></a>
 
   <a href="https://www.codechef.com/users/k_r_abhishek" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+    <img src="icons/coding/codechef.png" alt="CodeChef" width="50" /></a>
+
   <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
