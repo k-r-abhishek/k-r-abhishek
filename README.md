@@ -167,7 +167,7 @@
     <img src="icons/coding/codechef.png" alt="CodeChef" width="50" /></a>
 
   <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+    <img src="icons/coding/codechef.png" alt="CodeChef" width="50" /></a>
   
   <a href="https://www.codingninjas.com/codestudio/profile/Kr_Abhishek" target="_blank">
     <img src="https://img.shields.io/badge/CodeStudio-FF6D00?style=for-the-badge&logo=codingninjas&logoColor=white" /></a>
