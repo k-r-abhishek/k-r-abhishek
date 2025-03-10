@@ -170,7 +170,7 @@
     <img src="icons/coding/codeforces.png" alt="Codeforces" width="50" /></a>
   
   <a href="https://www.codingninjas.com/codestudio/profile/Kr_Abhishek" target="_blank">
-    <img src="icons/coding/codestudio.png" alt="CodeChef" width="50" /></a>
+    <img src="icons/coding/codestudio.png" alt="Codestudio" width="50" /></a>
     
   <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile" target="_blank">
     <img src="icons/coding/gfg.png" alt="CodeChef" width="50" /></a>
