@@ -176,7 +176,7 @@
     <img src="icons/coding/gfg.png" alt="GFG" width="50" /></a>
     
   <a href="https://www.hackerrank.com/K_r_Abhishek" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+    <img src="icons/coding/gfg.png" alt="GFG" width="50" /></a>
 </p>
 
 ---
