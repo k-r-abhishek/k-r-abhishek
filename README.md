@@ -25,7 +25,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k-r-abhishek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=k-r-abhishek&theme=tokyonight" />
   </a>
-</p>  
+</p>
+<p align="center">
+    
+</p>
+
 
 📌 **Most Used Languages**  
 
@@ -45,9 +49,9 @@
 📌 **Profile Views & Followers**  
 <p align="center">
   <a href="https://github.com/k-r-abhishek">
-    <img src="https://komarev.com/ghpvc/?username=k-r-abhishek&label=Profile%20Views&color=blue&style=flat-square" /></a>
+    <img src="https://komarev.com/ghpvc/?username=k-r-abhishek&label=Profile%20Views&color=green&style=flat-square" /></a>
   <a href="https://github.com/k-r-abhishek">
-    <img src="https://img.shields.io/github/followers/k-r-abhishek?label=Followers&style=flat-square" /></a>
+    <img src="https://img.shields.io/github/followers/k-r-abhishek?label=Followers&color=yellow&style=flat-square" /></a>
 </p>
 
 ---
