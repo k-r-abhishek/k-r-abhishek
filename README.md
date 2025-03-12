@@ -38,7 +38,7 @@
 📌 **Activity Graph**  
 <p align="center">
   <a href="https://github.com/k-r-abhishek">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-r-abhishek&theme=tokyo-night" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-r-abhishek&theme=chartreuse-dark" />
   </a>
 </p>  
 
