@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to My GitHub Spac</h1>
+<h1 align="center">🚀 Welcome to My GitHub Space</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Abhishek+%F0%9F%91%8B;Software+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Passionate+about+DSA%2C+Web+Dev%2C+and+Tech+%F0%9F%92%BB;Always+learning+new+technologies!+%F0%9F%92%AA" />
