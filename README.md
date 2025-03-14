@@ -178,7 +178,7 @@
   &nbsp;
   <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile" target="_blank">
     <img src="icons/coding/gfg.png" alt="GFG" width="50" /></a>
-    
+  &nbsp;
   <a href="https://www.hackerrank.com/K_r_Abhishek" target="_blank">
     <img src="icons/coding/hackerrank.png" alt="Hackerrank" width="50" /></a>
 </p>
