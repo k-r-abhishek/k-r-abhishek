@@ -175,7 +175,7 @@
   &nbsp;
   <a href="https://www.codingninjas.com/codestudio/profile/Kr_Abhishek" target="_blank">
     <img src="icons/coding/codestudio.png" alt="Codestudio" width="50" /></a>
-    
+  &nbsp;
   <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile" target="_blank">
     <img src="icons/coding/gfg.png" alt="GFG" width="50" /></a>
     
