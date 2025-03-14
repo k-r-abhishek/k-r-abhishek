@@ -166,7 +166,7 @@
   &nbsp;
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
     <img src="icons/coding/leetcode.png" alt="Leetcode" width="50" /></a>
-
+  &nbsp;
   <a href="https://www.codechef.com/users/k_r_abhishek" target="_blank">
     <img src="icons/coding/codechef.png" alt="CodeChef" width="50" /></a>
 
