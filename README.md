@@ -169,7 +169,7 @@
   &nbsp;
   <a href="https://www.codechef.com/users/k_r_abhishek" target="_blank">
     <img src="icons/coding/codechef.png" alt="CodeChef" width="50" /></a>
-
+  &nbsp;
   <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
     <img src="icons/coding/codeforces.png" alt="Codeforces" width="50" /></a>
   
