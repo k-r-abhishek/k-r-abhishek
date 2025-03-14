@@ -50,6 +50,7 @@
 <p align="center">
   <a href="https://github.com/k-r-abhishek">
     <img src="https://komarev.com/ghpvc/?username=k-r-abhishek&label=Profile%20Views&color=green&style=flat-square" /></a>
+  &nbsp;
   <a href="https://github.com/k-r-abhishek">
     <img src="https://img.shields.io/github/followers/k-r-abhishek?label=Followers&color=yellow&style=flat-square" /></a>
 </p>
