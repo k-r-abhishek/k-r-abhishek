@@ -25,6 +25,8 @@
 <p align="center">
   <a href="https://github.com/k-r-abhishek">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k-r-abhishek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  </a>
+  <a>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=k-r-abhishek&theme=tokyonight" />
   </a>
 </p>
