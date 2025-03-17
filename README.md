@@ -32,23 +32,21 @@
     
 </p>
 
-
-📌 **Most Used Languages**  
-
+📌 **Most Used Languages**
 <p align="center">
   <a href="https://github.com/k-r-abhishek">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-r-abhishek&layout=compact&theme=chartreuse-dark&langs_count=8" />
   </a>
 </p>  
 
-📌 **Activity Graph**  
+📌 **Activity Graph**
 <p align="center">
   <a href="https://github.com/k-r-abhishek">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-r-abhishek&theme=chartreuse-dark" />
   </a>
 </p>  
 
-📌 **Profile Views & Followers**  
+📌 **Profile Views & Followers**
 <p align="center">
   <a href="https://github.com/k-r-abhishek">
     <img src="https://komarev.com/ghpvc/?username=k-r-abhishek&label=Profile%20Views&color=green&style=flat-square" /></a>
