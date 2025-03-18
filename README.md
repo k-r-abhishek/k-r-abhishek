@@ -46,8 +46,9 @@
 <p align="center">
   <a href="https://github.com/k-r-abhishek">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-r-abhishek&theme=chartreuse-dark" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=k-r-abhishek&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" />
   </a>
-</p>  
+</p>
 
 📌 **Profile Views & Followers**
 <p align="center">
