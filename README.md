@@ -25,7 +25,9 @@
 
 <p align="center">
   <a href="https://github.com/k-r-abhishek">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k-r-abhishek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-r-abhishek&theme=radical" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k-r-abhishek&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k-r-abhishek&show_icons=true&theme=algolia&include_all_commits=false&count_private=false" />
   </a>
   <a href="https://github.com/k-r-abhishek">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=k-r-abhishek&theme=tokyonight" />
