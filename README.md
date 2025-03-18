@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%">
 <h1 align="center">🚀 Welcome to My GitHub World!</h1>
 
 <p align="center">
@@ -191,4 +191,4 @@
 
 ### 🎯 **Feel free to explore my repositories and connect with me!** 😃🚀
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%">
