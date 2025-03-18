@@ -27,11 +27,11 @@
   <a href="https://github.com/k-r-abhishek">
     <img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-r-abhishek&theme=radical" />
     <img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k-r-abhishek&theme=radical" />
+    <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k-r-abhishek&theme=radical" />
+    <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k-r-abhishek&theme=radical" />
+    <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k-r-abhishek&theme=radical&utcOffset=8" />
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=k-r-abhishek&show_icons=true&theme=algolia&include_all_commits=false&count_private=false" />
     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=k-r-abhishek&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/k-r-abhishek">
-    
   </a>
 </p>
 <p align="center">
@@ -131,7 +131,7 @@
 📌 **Trophies & Achievements**  
 <p align="center">
   <a href="https://github.com/k-r-abhishek" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=k-r-abhishek&theme=radical&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=k-r-abhishek&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
   </a>
 </p>
 
