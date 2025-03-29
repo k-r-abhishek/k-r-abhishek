@@ -21,17 +21,7 @@
 
 ---
 
-## 🎬 Live Developer Stats  
-
-<div align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-r-abhishek&theme=algolia" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k-r-abhishek&theme=algolia" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k-r-abhishek&theme=algolia" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k-r-abhishek&theme=algolia" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k-r-abhishek&theme=algolia&utcOffset=8" />
-      <img src="https://github-readme-stats.vercel.app/api?username=k-r-abhishek&show_icons=true&theme=algolia&include_all_commits=false&count_private=false" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-r-abhishek&theme=algolia" />
-    </div>
+## 🎬 Live Developer Stats
 <p align="center">
   <a href="https://github.com/k-r-abhishek">
     <div align="center">
