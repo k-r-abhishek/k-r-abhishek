@@ -30,9 +30,9 @@
       <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k-r-abhishek&theme=algolia" />
       <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k-r-abhishek&theme=algolia" />
       <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k-r-abhishek&theme=algolia&utcOffset=8" />
-      <img height="167em" src="https://github-readme-stats.vercel.app/api?username=k-r-abhishek&show_icons=true&bg_color=0,d80feb,4104eb&text_color=fff&hide_border=true&border_radius=7&include_all_commits=false&count_private=false" />
+      <img height="167em" src="https://github-readme-stats.vercel.app/api?username=k-r-abhishek&show_icons=true&theme=algolia&hide_border=true&border_radius=7&include_all_commits=false&count_private=false" />
 <!--       <img height="167em" src="https://github-readme-streak-stats.herokuapp.com/?user=k-r-abhishek&theme=algolia" /> -->
-      <img height="167em" src="https://github-readme-streak-stats.herokuapp.com?user=k-r-abhishek&theme=cyber-streakglow&hide_border=true&border_radius=7&card_width=430&card_height=full" />
+      <img height="167em" src="https://github-readme-streak-stats.herokuapp.com?user=k-r-abhishek&theme=algolia&hide_border=true&border_radius=7&card_width=430&card_height=full" />
     </div>
   </a>
 </p>
