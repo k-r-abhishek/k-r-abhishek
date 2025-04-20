@@ -151,7 +151,7 @@
   <a href="https://github.com/k-r-abhishek" target="_blank">
     <img src="icons/coding/github.png" alt="Github" width="50" /></a>
   &nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <a href="https://leetcode.com/K_r_Abhishek" target="_blank">
     <img src="icons/coding/leetcode.png" alt="Leetcode" width="50" /></a>
   &nbsp;
   <a href="https://www.codechef.com/users/k_r_abhishek" target="_blank">
