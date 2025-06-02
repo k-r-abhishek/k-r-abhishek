@@ -1,4 +1,4 @@
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%">
 <h1 align="center">🚀 Welcome to My GitHub World!</h1>
 
 <p align="center">
