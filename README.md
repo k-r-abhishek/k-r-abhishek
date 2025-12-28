@@ -130,7 +130,7 @@
   <a href="https://linkedin.com/in/k-r-abhishek" target="_blank">
     <img src="icons/social/linkedin.png" alt="LinkedIn" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:abhishekkrcd@gmail.com" target="_blank">
+  <a href="mailto:abhiprasad.in@gmail.com" target="_blank">
     <img src="icons/social/gmail.png" alt="Gmail" width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/KrAbhishekz" target="_blank">
